@@ -31,15 +31,14 @@ var numberOfKittens = 5;
 
 //with latest version of Javascript ES2015ES6) there is also LET and CONST
 
-//let is simialr is similar to var, but you cannot redclare let variables
+/*let is simialr is similar to var, but you cannot redclare let variables
 let numberOfKittens;
-//Const will often remain the same after it has been populated.
+
+Const will often remain the same after it has been populated.
 const numberOfKittens = 5;
 
-/*Naming variables is case sensitive-camelCase preferred
+Naming variables is case sensitive-camelCase preferred
 Variable names need to start with a letter, dollar sign $ or underscore_
 Avoid reserved words
 Choose clarity and meaning for humans to read later
 */ 
-
-console.log(numberOfKittens);
