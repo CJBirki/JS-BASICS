@@ -1,8 +1,14 @@
 //Lesson 9 Intro to JS - Programming Concepts tasks
 
+//Open a pop up box
 alert('Hello World');
 
+//Display a message in your console
 console.log('Secret message');
+
+//Add something to the page
+
+document.write('Hello World!');
 
 // Statement examples
 
