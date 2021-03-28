@@ -1,8 +1,7 @@
-var bottlesOfLucozadeConsumed;
 var bottlesOfLucozadeConsumed = 5;
 
-alert(bottlesOfLucozadeConsumed)
+alert('Bottles of Lucozade that Caz has consumed: 'bottlesOfLucozadeConsumed)
 
-console.log(bottlesOfLucozadeConsumed)
+console.log('Bottles of Lucozade Caz has consumed: 'bottlesOfLucozadeConsumed)
 
-document.write(bottlesOfLucozadeConsumed)
+document.write('Bottles of Lucozade that Caz has comnsumed: 'bottlesOfLucozadeConsumed)
