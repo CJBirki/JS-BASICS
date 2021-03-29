@@ -1,7 +1,4 @@
-function hello(firstName, lastName) {
-  var fullname = 'Hello ${firstName} ${lastName}'
-  return fullname
-}
+var firstName = 'Caroline';
+var lastName = 'Birkinshaw';
 
-var sayFullName = hello('Caroline','Birkinshaw')
-console.log (sayFullName)
+console.log(`Hello ${firstName} ${lastName}, how are you?`)
