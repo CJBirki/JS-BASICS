@@ -1,8 +1,10 @@
-var a = 10;
-var b = 5;
+var apples = 10;
+var bananas= 5;
 
-console.log('sum', a + b);
-console.log('difference', a -b)
-console.log('multiplication', a * b);
-console.log('division', a / b);
-console.log('remainder', a % b);
+console.log('amount of fruit', apples+bananas);
+console.log('difference between apples and bananas', apples-bananas);
+console.log('multiply apples and bananas', apples*bananas);
+console.log('divide apples by bananas', apples/bananas);
+console.log('remainder of fruit when you divide apples by bananas', apples%bananas);
+
+
